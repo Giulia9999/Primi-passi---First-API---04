@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "ca6a1c2e-a2dc-4861-a2ad-64f1130af2fa",
+		"name": "API_04",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26043911"
+	},
+	"item": [
+		{
+			"name": "GET_esercizio04 Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/headers",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"headers"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
